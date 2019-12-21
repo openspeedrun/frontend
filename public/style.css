@@ -1,0 +1,32 @@
+.avatar-xxl {
+    width: 96px;
+    height: 96px;
+}
+
+.avatar-force-radius img {
+    border-radius: 50% !important;
+}
+
+.bg-tertiary {
+    background: #ededf7;
+}
+
+.bg-banned {
+    background:#000000 !important;
+    color:#fff;
+}
+
+.bg-mod {
+    background:#453e7c !important;
+    color:#fff;
+}
+
+.bg-admin {
+    background:#b3a242 !important;
+    color:#fff;
+}
+
+.bg-webmaster {
+    background:#963535 !important;
+    color:#fff;
+}
